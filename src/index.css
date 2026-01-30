@@ -1,0 +1,25 @@
+/* ✅ Tailwind base styles (resets, typography, etc.) */
+@tailwind base;
+
+/* ✅ Tailwind component classes (buttons, cards, etc.) */
+@tailwind components;
+
+/* ✅ Tailwind utility classes (margins, colors, flex, etc.) */
+@tailwind utilities;
+
+/* ✨ You can add your custom global styles below if needed */
+
+/* Example custom styling (optional) */
+body {
+  font-family: 'Poppins', sans-serif;
+  background-color: #f9fafb; /* soft white-gray background */
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #111827; /* dark text for headings */
+}
+
+p {
+  color: #374151; /* medium-gray text for paragraphs */
+}
+

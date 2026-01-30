@@ -1,0 +1,20 @@
+{
+  "short_name": "GlowCare",
+  "name": "Skincare & Haircare Analyzer",
+  "icons": [
+    {
+      "src": "icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#A7F3D0",
+  "background_color": "#FFFFFF"
+}
