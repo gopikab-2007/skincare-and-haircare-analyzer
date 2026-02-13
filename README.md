@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# skincare-and-haircare-analyzer
+Skincare &amp; Haircare Analyzer is a smart app that analyzes user inputs like skin type, hair type, and concerns to provide personalized skincare and haircare routines, product suggestions, and basic care tips, helping users build healthy self-care habits easily and safely.
+>>>>>>> b46b13a748fc0c660ff4672d4324b0bf897e872f
